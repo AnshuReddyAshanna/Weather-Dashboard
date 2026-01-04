@@ -33,25 +33,13 @@ The goal of this project was to build a clean and interactive dashboard that:
 - Makes weather trends easy to interpret visually
 - Demonstrates practical use of APIs in Power BI
 
-• Walkthrough of Key Visuals
-
-Key KPIs
-Displays real-time temperature, humidity, wind speed, pressure, and AQI status using card visuals.
-
-Weather Overview Panel
-Shows current weather conditions for the selected location in a simple, readable format.
-
-AQI Indicator
-Highlights air quality levels (Good, Moderate, Poor, etc.) using conditional formatting.
-
-Forecast Trend Visuals
-Line charts display temperature trends to show short-term weather changes.
-
-Location Filters
-Slicers allow users to switch between cities and countries dynamically.
-
-UI Design
-A minimal, glassmorphism-inspired layout focused on readability and user experience.
+# Key Visuals
+- Key KPIs Displays real-time temperature, humidity, wind speed, pressure, and AQI status using card visuals.
+- Weather Overview PanelShows current weather conditions for the selected location in a simple, readable format.
+- AQI Indicator Highlights air quality levels (Good, Moderate, Poor, etc.) using conditional formatting.
+- Forecast Trend Visuals such as Line charts display temperature trends to show short-term weather changes.
+- Location Filters: Slicers allow users to switch between cities and countries dynamically.
+- UI Design: A minimal, glassmorphism-inspired layout focused on readability and user experience.
 
 # Demo
 <img width="1117" height="629" alt="Weather Dashboard Image" src="https://github.com/user-attachments/assets/58cd50ac-6789-40ad-b2b9-3daef2691b07" />
